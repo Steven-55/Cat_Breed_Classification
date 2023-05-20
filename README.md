@@ -10,3 +10,5 @@ Team Member:
 * (MD) A035DSX3627 – Agus Tinus Turnip – Institut Teknologi Nasional Bandung
 
 The Objective of this project is to helping cat lovers to identify cat breeds and proper handling as well as knowing the characteristics of these cat breeds
+
+Link for dataset : https://kaggle.com/datasets/8ada2f018bdc6ccb6f4555c78564e599693ae30199f99961bdec56c3221dceb1
