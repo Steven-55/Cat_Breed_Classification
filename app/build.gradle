@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace 'com.dicoding.catidentifier'
+    namespace 'com.dicoding.catidentifierapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.dicoding.catidentifier"
-        minSdk 21
+        applicationId "com.dicoding.catidentifierapp"
+        minSdk 24
         targetSdk 33
         versionCode 1
         versionName "1.0"
@@ -29,6 +29,10 @@ android {
     }
     kotlinOptions {
         jvmTarget = '1.8'
+    }
+
+    buildFeatures{
+        viewBinding true
     }
 }
 
