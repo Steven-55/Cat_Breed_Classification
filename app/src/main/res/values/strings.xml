@@ -1,8 +1,12 @@
 <resources>
     <string name="app_name">Cat Identifier App</string>
-    <string name="sign_in">Sign In</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
     <string name="sign_up">Sign Up</string>
-    <string name="username">Username</string>
+    <string name="sign_in_uppercase">SIGN IN</string>
+    <string name="sign_up_uppercase">SIGN UP</string>
+    <string name="name">Name</string>
+    <string name="Sign_in_question">Don’t have an account ?</string>
+    <string name="Sign_up_question">Already have an account ?</string>
 </resources>
